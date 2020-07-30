@@ -13,6 +13,8 @@
 # limitations under the License.
 
 
+
+
 locals {
   network = "${element(split("-", var.subnet), 0)}"
 }
