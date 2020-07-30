@@ -1,1 +1,1 @@
-project="blade-ai-282114"
+project=blade-ai-282114
