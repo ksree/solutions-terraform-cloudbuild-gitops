@@ -15,7 +15,7 @@
 
 terraform {
   backend "gcs" {
-    bucket = "PROJECT_ID-tfstate"
+    bucket = "blade-ai-282114-tfstate"
     prefix = "env/dev"
   }
 }
